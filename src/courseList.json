@@ -1,0 +1,301 @@
+{
+	"courses": [
+		{
+			"par": { "1": 3, "2": 3, "3": 3, "4": 3, "5": 3, "6": 3, "7": 3, "8": 3, "9": 3, "10": 3, "11": 3, "12": 3, "13": 3, "14": 3, "15": 3, "16": 3, "17": 3, "18": 3 },
+			"id": 0,
+			"name": "Mystery Course?",
+			"town": "not found",
+			"address": "No current address",
+			"longitude": 0.0,
+			"latitude": 0.0
+		},
+		{
+			"par": { "1": 5, "2": 3, "3": 5, "4": 4, "5": 4, "6": 4, "7": 3, "8": 4, "9": 4, "10": 4, "11": 3, "12": 4, "13": 4, "14": 4, "15": 4, "16": 3, "17": 4, "18": 4 },
+			"id": 1,
+			"name": "Bear Hill Golf Club",
+			"town": "Stoneham",
+			"address": "2 North St, Stoneham, MA 02180",
+			"latitude": "42.5008475",
+			"longitude": "-71.0997605"
+		},
+		{
+			"par": {"1": 4,"2": 4,"3": 4,"4": 4,"5": 3,"6": 5,"7": 4,"8": 3,"9": 4},
+			"id": 2,
+			"name": "Bellevue Golf Club",
+			"town": "Melrose",
+			"address": "320 Porter St, Melrose, MA 02176",
+			"latitude": "42.4664419",
+			"longitude": "-71.051228"
+		},
+		{
+			"par": {"1": 4,"2": 4,"3": 3,"4": 4,"5": 4,"6": 3,"7": 4,"8": 5,"9": 4,"10": 4,"11": 3,"12": 3,"13": 5,"14": 4,"15": 3,"16": 4,"17": 5,"18": 4},
+			"id": 3,
+			"name": "Beverly Golf & Tennis Club",
+			"town": "Beverly",
+			"address": "134 McKay St, Beverly, MA 01915",
+			"latitude": "42.5621099",
+			"longitude": "-70.900132"
+		},
+		{
+			"par": {"1": 4,"2": 4,"3": 4,"4": 4,"5": 5,"6": 3,"7": 4,"8": 3,"9": 4,"10": 5,"11": 4,"12": 3,"13": 5,"14": 5,"15": 4,"16": 4,"17": 3,"18": 4},
+			"id": 4,
+			"name": "Brae Burn Country Club",
+			"town": "Newton",
+			"address": "326 Fuller St, Newton, MA 02465",
+			"latitude": "42.3378912",
+			"longitude": "-71.2342129"
+		},
+		{
+			"par": {"1": 4,"2": 5,"3": 3,"4": 4,"5": 4,"6": 3,"7": 4,"8": 4,"9": 4},
+			"id": 5,
+			"name": "Cedar Glen Golf Course",
+			"town": "Saugus",
+			"address": "60 Water St, Saugus, MA 01906",
+			"latitude": "42.4955899",
+			"longitude": "-71.027538"
+		},
+		{
+			"par": {"1": 4,"2": 5,"3": 4,"4": 3,"5": 4,"6": 4,"7": 5,"8": 4,"9": 3,"10": 5,"11": 3,"12": 4,"13": 4,"14": 3,"15": 5,"16": 5,"17": 3,"18": 4},
+			"id": 6,
+			"name": "Charles River Country Club",
+			"town": "Newton",
+			"address": "483 Dedham St, Newton, MA 02459",
+			"latitude": "42.3057411",
+			"longitude": "-71.1973528"
+		},
+		{
+			"par": {"1": 4,"2": 4,"3": 3,"4": 4,"5": 5,"6": 3,"7": 4,"8": 3,"9": 5,"10": 4,"11": 4,"12": 3,"13": 4,"14": 5,"15": 3,"16": 4,"17": 3,"18": 5},
+			"id": 7,
+			"name": "Fresh Pond Golf Course",
+			"town": "Cambridge",
+			"address": "691 Huron Ave, Cambridge, MA 02138",
+			"latitude": "42.3811259",
+			"longitude": "-71.1551716"
+		},
+		{
+			"par": {"1": 4,"2": 4,"3": 4,"4": 4,"5": 4,"6": 3,"7": 4,"8": 4,"9": 3,"10": 4,"11": 4,"12": 4,"13": 4,"14": 3,"15": 5,"16": 3,"17": 4,"18": 5},
+			"id": 8,
+			"name": "Gannon Municipal Golf Course",
+			"town": "Lynn",
+			"address": "60 Great Woods Rd, Lynn, MA 01904",
+			"latitude": "42.4877195",
+			"longitude": "-70.9781261"
+		},
+		{
+			"par": {"1": 5,"2": 4,"3": 4,"4": 3,"5": 4,"6": 4,"7": 4,"8": 4,"9": 3,"10": 4,"11": 4,"12": 3,"13": 5,"14": 4,"15": 4,"16": 4,"17": 3,"18": 4},
+			"id": 9,
+			"name": "Kernwood Country Club",
+			"town": "Salem",
+			"address": "1 Kernwood St, Salem, MA 01970",
+			"latitude": "42.5414592",
+			"longitude": "-70.9069311"
+		},
+		{
+			"par": {"1": 4,"2": 3,"3": 5,"4": 4,"5": 4,"6": 3,"7": 4,"8": 4,"9": 3},
+			"id": 10,
+			"name": "King Rail Golf Course",
+			"town": "Lynnfield",
+			"address": "1 King Rail Dr, Lynnfield, MA 01940",
+			"latitude": "42.5207768",
+			"longitude": "-71.0387187"
+		},
+		{
+			"par": {"1": 4,"2": 5,"3": 3,"4": 5,"5": 3,"6": 4,"7": 4,"8": 4,"9": 4,"10": 3,"11": 4,"12": 3,"13": 4,"14": 4,"15": 4,"16": 5,"17": 4,"18": 5},
+			"id": 11,
+			"name": "Leo J. Martin Memorial Golf Course",
+			"town": "Weston",
+			"address": "190 Park Rd, Weston, MA 02493",
+			"latitude": "42.3325793",
+			"longitude": "-71.2695693"
+		},
+		{
+			"par": {"1": 4,"2": 4,"3": 5,"4": 4,"5": 3,"6": 5,"7": 3,"8": 4,"9": 4},
+			"id": 12,
+			"name": "Meadow Brook Golf Club",
+			"town": "Reading",
+			"address": "292 Grove St, Reading, MA 01867",
+			"latitude": "42.5436808",
+			"longitude": "-71.1295981"
+		},
+		{
+			"par": {"1": 3,"2": 3,"3": 3,"4": 3,"5": 3,"6": 3,"7": 3,"8": 3,"9": 3,"10": 3,"11": 3,"12": 3,"13": 3,"14": 3,"15": 3,"16": 3,"17": 3,"18": 3},
+			"id": 13,
+			"name": "Middleton Golf Course",
+			"town": "Middleton",
+			"address": "105 S Main St, Middleton, MA 01949",
+			"latitude": "42.5869354",
+			"longitude": "-71.0146786"
+		},
+		{
+			"par": {"1": 5,"2": 4,"3": 3,"4": 5,"5": 4,"6": 4,"7": 4,"8": 4,"9": 3,"10": 3,"11": 4,"12": 4,"13": 4,"14": 5,"15": 3,"16": 4,"17": 4,"18": 3},
+			"id": 14,
+			"name": "Mt Hood Municipal Golf Course",
+			"town": "Melrose",
+			"address": "Melrose, MA 02176",
+			"latitude": "42.4521139",
+			"longitude": "-71.036635"
+		},
+		{
+			"par": {"1": 4,"2": 5,"3": 3,"4": 3,"5": 5,"6": 4,"7": 3,"8": 5,"9": 3,"10": 4,"11": 4,"12": 3,"13": 4,"14": 4,"15": 5,"16": 3,"17": 4,"18": 4},
+			"id": 15,
+			"name": "Newton Commonwealth Golf Course",
+			"town": "Newton",
+			"address": "212 Kenrick St, Newton, MA 02458",
+			"latitude": "42.3440858",
+			"longitude": "-71.1760092"
+		},
+		{
+			"par": {"1": 4,"2": 4,"3": 3,"4": 5,"5": 4,"6": 5,"7": 3,"8": 4,"9": 4,"10": 5,"11": 4,"12": 3,"13": 5,"14": 3,"15": 3,"16": 4,"17": 4,"18": 4},
+			"id": 16,
+			"name": "Oakley Country Club",
+			"town": "Watertown",
+			"address": "410 Belmont St, Watertown, MA 02472",
+			"latitude": "42.3765288",
+			"longitude": "-71.172554"
+		},
+		{
+			"par": {"1": 4,"2": 3,"3": 4,"4": 5,"5": 4,"6": 4,"7": 4,"8": 3,"9": 4},
+			"id": 17,
+			"name": "Olde Salem Greens Golf Course",
+			"town": "Salem",
+			"address": "75 Wilson St, Salem, MA 01970",
+			"latitude": "42.5011731",
+			"longitude": "-70.9085745"
+		},
+		{
+			"par": {"1": 5,"2": 5,"3": 4,"4": 3,"5": 4,"6": 3,"7": 4,"8": 4,"9": 3},
+			"id": 18,
+			"name": "Pine Meadows Golf Club",
+			"town": "Lexington",
+			"address": "255 Cedar St, Lexington, MA 02421",
+			"latitude": "42.4570868",
+			"longitude": "-71.255806"
+		},
+		{
+			"par": {"1": 4,"2": 4,"3": 3,"4": 4,"5": 3,"6": 5,"7": 4,"8": 4,"9": 4,"10": 4,"11": 4,"12": 3,"13": 4,"14": 4,"15": 5,"16": 4,"17": 3,"18": 4},
+			"id": 19,
+			"name": "Robert T. Lynch Municipal Golf Course (Putterham Meadow Golf Course)",
+			"town": "Newton",
+			"address": "1281 W Roxbury Pkwy, Chestnut Hill, MA 02467",
+			"latitude": "42.3096954",
+			"longitude": "-71.162398"
+		},
+		{
+			"par": {"1": 4,"2": 4,"3": 3,"4": 4,"5": 5,"6": 3,"7": 4,"8": 4,"9": 3},
+			"id": 20,
+			"name": "Reedy Meadow Golf Course",
+			"town": "Lynnfield",
+			"address": "195 Summer St, Lynnfield, MA 01940",
+			"latitude": "42.5344558",
+			"longitude": "-71.048515"
+		},
+		{
+			"par": {"1": 5,"2": 4,"3": 5,"4": 4,"5": 4,"6": 3,"7": 4,"8": 3,"9": 3,"10": 4,"11": 5,"12": 5,"13": 4,"14": 3,"15": 4,"16": 4,"17": 3,"18": 3},
+			"id": 21,
+			"name": "Sagamore Spring Golf Club",
+			"town": "Lynnfield",
+			"address": "1287 Main St, Lynnfield, MA 01940",
+			"latitude": "42.5591263",
+			"longitude": "-71.0425781"
+		},
+		{
+			"par": {"1": 4,"2": 4,"3": 3,"4": 4,"5": 5,"6": 3,"7": 4,"8": 5,"9": 4,"10": 4,"11": 5,"12": 3,"13": 4,"14": 3,"15": 5,"16": 4,"17": 4,"18": 4},
+			"id": 22,
+			"name": "Salem Country Club",
+			"town": "Peabody",
+			"address": "133 Forest St, Peabody, MA 01960",
+			"latitude": "42.5304521",
+			"longitude": "-70.9726167"
+		},
+		{
+			"par": {"1": 3,"2": 3,"3": 3,"4": 3,"5": 3,"6": 3,"7": 3,"8": 3,"9": 3},
+			"id": 23,
+			"name": "Stoneham Oaks",
+			"town": "Stoneham",
+			"address": "101 Montvale Ave, Stoneham, MA 02180",
+			"latitude": "42.4814287",
+			"longitude": "-71.1154572"
+		},
+		{
+			"par": {"1": 4,"2": 4,"3": 4,"4": 3,"5": 3,"6": 4,"7": 3,"8": 3,"9": 4},
+			"id": 24,
+			"name": "Swanson Meadows Golf Course",
+			"town": "North Billerica",
+			"address": "216 Rangeway Rd, North Billerica, MA 01862",
+			"latitude": "42.5675115",
+			"longitude": "-71.3142477"
+		},
+		{
+			"par": {"1": 4,"2": 4,"3": 3,"4": 4,"5": 4,"6": 4,"7": 3,"8": 3,"9": 5,"10": 5,"11": 4,"12": 4,"13": 3,"14": 4,"15": 4,"16": 4,"17": 4,"18": 4},
+			"id": 25,
+			"name": "Tedesco Country Club",
+			"town": "Marblehead",
+			"address": "154 Tedesco St, Marblehead, MA 01945",
+			"latitude": "42.4852164",
+			"longitude": "-70.896535"
+		},
+		{
+			"par": {"1": 5,"2": 4,"3": 4,"4": 4,"5": 4,"6": 3,"7": 5,"8": 3,"9": 4,"10": 4,"11": 5,"12": 3,"13": 4,"14": 4,"15": 4,"16": 3,"17": 4,"18": 4},
+			"id": 26,
+			"name": "The Meadow at Peabody Golf Course",
+			"town": "Peabody",
+			"address": "80 Granite St, Peabody, MA 01960",
+			"latitude": "42.514579",
+			"longitude": "-70.9375321"
+		},
+		{
+			"par": {"1": 5,"2": 4,"3": 4,"4": 3,"5": 4,"6": 4,"7": 3,"8": 4,"9": 5,"10": 4,"11": 4,"12": 3,"13": 4,"14": 5,"15": 4,"16": 5,"17": 3,"18": 4},
+			"id": 27,
+			"name": "Thomson Country Club",
+			"town": "North Reading",
+			"address": "2 Mid Iron Dr, North Reading, MA 01864",
+			"latitude": "42.5832066",
+			"longitude": "-71.0402591"
+		},
+		{
+			"par": {"1": 4,"2": 4,"3": 4,"4": 3,"5": 4,"6": 5,"7": 4,"8": 3,"9": 4,"10": 4,"11": 4,"12": 4,"13": 3,"14": 4,"15": 5,"16": 5,"17": 3,"18": 5},
+			"id": 28,
+			"name": "Unicorn Golf Course",
+			"town": "Stoneham",
+			"address": "460 William St, Stoneham, MA 02180",
+			"latitude": "42.4887507",
+			"longitude": "-71.1149858"
+		},
+		{
+			"par": {"1": 4,"2": 3,"3": 4,"4": 4,"5": 4,"6": 4,"7": 3,"8": 4,"9": 5,"10": 4,"11": 4,"12": 3,"13": 4,"14": 4,"15": 3,"16": 4,"17": 5,"18": 5},
+			"id": 29,
+			"name": "Wellesley Country Club",
+			"town": "Wellesley",
+			"address": "300 Wellesley Ave, Wellesley Hills, MA 02481",
+			"latitude": "42.3017423",
+			"longitude": "-71.2599514"
+		},
+		{
+			"par": {"1": 4,"2": 4,"3": 4,"4": 3,"5": 4,"6": 4,"7": 4,"8": 3,"9": 4,"10": 4,"11": 5,"12": 4,"13": 3,"14": 4,"15": 3,"16": 4,"17": 4,"18": 5},
+			"id": 30,
+			"name": "William J. Devine Golf Course at Franklin Park",
+			"town": "Dorchester",
+			"address": "1 Circuit Dr, Dorchester, MA 02121",
+			"latitude": "42.3010369",
+			"longitude": "-71.090742"
+		},
+		{
+			"par": {"1": 4,"2": 5,"3": 4,"4": 4,"5": 4,"6": 3,"7": 4,"8": 4,"9": 3,"10": 4,"11": 3,"12": 5,"13": 5,"14": 3,"15": 4,"16": 4,"17": 4,"18": 4},
+			"id": 31,
+			"name": "Winchester Country Club",
+			"town": "Arlington",
+			"address": "468 Mystic St, Arlington, MA 02474",
+			"latitude": "42.4342239",
+			"longitude": "-71.1587966"
+		},
+		{
+			"par": {"1": 4,"2": 4,"3": 4,"4": 3,"5": 5,"6": 3,"7": 4,"8": 3,"9": 5},
+			"id": 32,
+			"name": "Winthrop Golf Club",
+			"town": "Winthrop",
+			"address": "453 Main St, Winthrop, MA 02152",
+			"latitude": "42.378114",
+			"longitude": "-70.9813516"
+		}
+	]
+}
